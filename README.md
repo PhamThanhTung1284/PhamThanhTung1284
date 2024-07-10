@@ -3,7 +3,7 @@
 ## 👨‍💻 Giới thiệu
 Xin chào! Tôi là Phạm Thanh Tùng, một chuyên gia IT/CNTT sống tại Hà Nội, quê ở Quảng Ninh. Tôi đam mê công nghệ và luôn muốn khám phá, học hỏi những điều mới mẻ trong lĩnh vực này.
 ## 📧 Liên hệ
-- Email: [phamthanhtunghlqn@gmail.com](mailto:phamthanhtunghlqn@gmail.com)
+- Email: [phamthanhtunghlqn@gmail.com]
 ## 💼 Nghề nghiệp
 - Chuyên viên IT, CNTT
 ## 🌟 Sở thích
